@@ -1,9 +1,14 @@
 ### Hi there, I'm Japroz Singh Saini
 
 #### I am a JavaScript Developer
-
+- I am currently mastering NodeJS, ReactJS, Redux, GraphQL and Firebase
+- Looking for collaboration work, especially in JavaScript, HTML5 and CSS3
+- Currentl a student as of 2020
+- Also looking for collaborators for a CSS Library
 ### Connect with me:
--Gmail : sainijaproz@gmail.com
+Gmail : sainijaproz@gmail.com
+Twitter : Japroz-Saini
+Instagram : Japroz_1313
 
 <br />
 
