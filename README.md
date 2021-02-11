@@ -7,6 +7,15 @@ JavaScript
 TypeScript
 Bash
 Python
+Ruby
+Sass
+CSS
+HTML
+React
+Vue
+ElectronJS
+NodeJS
+Deno
 C
 CPP
 Java
