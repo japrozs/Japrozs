@@ -1,6 +1,6 @@
 ### Hi there, I'm Japroz Singh Saini
 
-I am a web developer from India. I am proicient in the following technologies:
+I am a web developer from India. I am proficient in the following technologies:
 
 ```bash
 JavaScript
