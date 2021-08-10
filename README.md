@@ -22,7 +22,7 @@ Vercel
 Docker
 GraphQL
 Apollo
-REST API's
+REST API\'s
 ElectronJS
 NodeJS
 C
