@@ -1,31 +1,21 @@
 ### Hi there, I'm Japroz Singh Saini
 
-I am a web developer from India. I am proficient in the following technologies:
+## Projects that I've contributed to
+- [`plausible/analytics`](https://github.com/plausible/analytics)
+- [`microsoft/vscode`](https://github.com/microsoft/vscode)
+- [`ml5js/ml5-library`](https://github.com/ml5js/ml5-library)
 
+## Technologies
 ```bash
 TypeScript
-Rust
-JavaScript
-React Native
-TailwindCSS
-Bash
-Python
-Ruby
-CSS
-HTML
-React
-Next.JS
-Firebase
-Postgres
-MongoDB
-Vercel
 Docker
-GraphQL
-Apollo
-REST API\'s
-ElectronJS
-NodeJS
-C
+Nodejs
+Postgres
+Web Dev
+Mobile Dev
+Java
+Rust
+Python
 ```
 
 Contact me for queries at `sainijaproz@gmail.com`
