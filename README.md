@@ -4,6 +4,7 @@
 - [`plausible/analytics`](https://github.com/plausible/analytics)
 - [`microsoft/vscode`](https://github.com/microsoft/vscode)
 - [`ml5js/ml5-library`](https://github.com/ml5js/ml5-library)
+- [`withfig/autocomplete`](https://github.com/withfig/autocomplete)
 
 ## Technologies
 ```bash
