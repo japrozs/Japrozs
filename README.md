@@ -17,6 +17,8 @@ Mobile Dev
 Java
 Rust
 Python
+C
+Elixir
 ```
 
 Contact me for queries at `sainijaproz@gmail.com`
