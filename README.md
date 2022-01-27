@@ -1,6 +1,6 @@
 ### Hi there, I'm Japroz (`0x6a6170726f7a`) Singh Saini
 
-I'm a 16 y/o (as of 2021) student from India and my aim is to one day be a software engineer at [`NASA JPL`](https://jpl.nasa.gov)
+I'm a 16 y/o (as of 2021) student from India and my aim is to one day be a software engineer at [`NASA JPL`](https://jpl.nasa.gov). I love to code in `C` and `Typescript` (i know, its a weird combo) and build low level software.
 
 ## Projects that I've contributed to
 - [`plausible/analytics`](https://github.com/plausible/analytics)
@@ -10,17 +10,15 @@ I'm a 16 y/o (as of 2021) student from India and my aim is to one day be a softw
 
 ## Technologies
 ```bash
+C
 TypeScript
 Docker
 Nodejs
 Postgres
 Web Dev
 Mobile Dev
-Java
 Rust
 Python
-C
-Elixir
 ```
 
 Contact me for queries at `sainijaproz@gmail.com`
