@@ -11,15 +11,15 @@ I'm a 16 y/o (as of 2021) student from India and my aim is to one day be a softw
 
 ## Technologies
 ```bash
+C++
 C
 TypeScript
+Python
 Docker
 Nodejs
 Postgres
 Web Dev
-Mobile Dev
 Rust
-Python
 ```
 
 Contact me for queries at `sainijaproz@gmail.com`
