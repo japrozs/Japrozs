@@ -4,10 +4,7 @@ I'm a 16 y/o (as of 2021) student from India and my aim is to be a software engi
 
 ## Projects that I've contributed to
 - [`plausible/analytics`](https://github.com/plausible/analytics)
-- [`microsoft/vscode`](https://github.com/microsoft/vscode)
-- [`ml5js/ml5-library`](https://github.com/ml5js/ml5-library)
 - [`withfig/autocomplete`](https://github.com/withfig/autocomplete)
-- [`git/git`](https://github.com/git/git)
 
 ## Technologies
 ```bash
