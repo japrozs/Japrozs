@@ -4,4 +4,4 @@ I'm a 17 y/o (as of 2022) student from India and my aim is to be a software engi
 
 Contact me for queries at `sainijaproz@gmail.com`
 
-My website : [`https://japrozsaini.me`](https://japrozsaini.me)
+My website : [`https://japroz.me`](https://japroz.me)
